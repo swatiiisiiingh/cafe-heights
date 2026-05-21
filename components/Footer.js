@@ -45,7 +45,7 @@ export default function Footer() {
 
         <div style={{ borderTop: "1px solid #4A3728", color: "#8B7355" }}
           className="mt-10 pt-6 text-center text-xs tracking-widest uppercase">
-          © 2024 Cafe Heights · All rights reserved
+          © 2026 Cafe Heights · All rights reserved
         </div>
       </div>
     </footer>
